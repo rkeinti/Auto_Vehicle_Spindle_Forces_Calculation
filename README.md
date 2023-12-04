@@ -20,7 +20,7 @@ The data is from a vehicle data acquisition.
 
 #### Methodology
 
-An attempt will be made using:
+An attempt is made using:
 - Linear Regression,
 - KNN Regression,
 - Decision Tree Regression,
@@ -31,7 +31,7 @@ An attempt will be made using:
 #### Results
 
 
-What did your research find?
+Machine learning can be used to predict spindle loads. KNN is the best tool to use in this case.
 
 #### Next steps
 
@@ -40,8 +40,6 @@ Combine multiple events in one single dataframe for a better results
 #### Outline of project
 
 - [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
 
 
 ##### Contact and Further Information
